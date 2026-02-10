@@ -1,0 +1,9 @@
+# NumPy arrays
+*.npy
+*.pt
+*.pth
+
+# Large experiment artifacts
+results/
+checkpoints/
+logs/
